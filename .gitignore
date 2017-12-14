@@ -15,3 +15,7 @@ CMakeCache.txt
 cmake_install.cmake
 
 
+CPackConfig.cmake
+CPackSourceConfig.cmake
+postprocess_bundle.cmake
+tests/
